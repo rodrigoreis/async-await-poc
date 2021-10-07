@@ -1,0 +1,16 @@
+D:\repos\csharp\async-await-poc\src\AsyncMachineryExtensionsDemo\bin\Debug\net5.0\AsyncMachineryExtensionsDemo.exe
+D:\repos\csharp\async-await-poc\src\AsyncMachineryExtensionsDemo\bin\Debug\net5.0\AsyncMachineryExtensionsDemo.deps.json
+D:\repos\csharp\async-await-poc\src\AsyncMachineryExtensionsDemo\bin\Debug\net5.0\AsyncMachineryExtensionsDemo.runtimeconfig.json
+D:\repos\csharp\async-await-poc\src\AsyncMachineryExtensionsDemo\bin\Debug\net5.0\AsyncMachineryExtensionsDemo.runtimeconfig.dev.json
+D:\repos\csharp\async-await-poc\src\AsyncMachineryExtensionsDemo\bin\Debug\net5.0\AsyncMachineryExtensionsDemo.dll
+D:\repos\csharp\async-await-poc\src\AsyncMachineryExtensionsDemo\bin\Debug\net5.0\ref\AsyncMachineryExtensionsDemo.dll
+D:\repos\csharp\async-await-poc\src\AsyncMachineryExtensionsDemo\bin\Debug\net5.0\AsyncMachineryExtensionsDemo.pdb
+D:\repos\csharp\async-await-poc\src\AsyncMachineryExtensionsDemo\obj\Debug\net5.0\AsyncMachineryExtensionsDemo.csprojAssemblyReference.cache
+D:\repos\csharp\async-await-poc\src\AsyncMachineryExtensionsDemo\obj\Debug\net5.0\AsyncMachineryExtensionsDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\csharp\async-await-poc\src\AsyncMachineryExtensionsDemo\obj\Debug\net5.0\AsyncMachineryExtensionsDemo.AssemblyInfoInputs.cache
+D:\repos\csharp\async-await-poc\src\AsyncMachineryExtensionsDemo\obj\Debug\net5.0\AsyncMachineryExtensionsDemo.AssemblyInfo.cs
+D:\repos\csharp\async-await-poc\src\AsyncMachineryExtensionsDemo\obj\Debug\net5.0\AsyncMachineryExtensionsDemo.csproj.CoreCompileInputs.cache
+D:\repos\csharp\async-await-poc\src\AsyncMachineryExtensionsDemo\obj\Debug\net5.0\AsyncMachineryExtensionsDemo.dll
+D:\repos\csharp\async-await-poc\src\AsyncMachineryExtensionsDemo\obj\Debug\net5.0\ref\AsyncMachineryExtensionsDemo.dll
+D:\repos\csharp\async-await-poc\src\AsyncMachineryExtensionsDemo\obj\Debug\net5.0\AsyncMachineryExtensionsDemo.pdb
+D:\repos\csharp\async-await-poc\src\AsyncMachineryExtensionsDemo\obj\Debug\net5.0\AsyncMachineryExtensionsDemo.genruntimeconfig.cache
